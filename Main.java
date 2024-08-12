@@ -43,7 +43,7 @@ class BankAccount {
     }
 }
 
-public class BankSystem {
+public class Main {
     public static void main(String[] args) {
         // Create a new bank account
         BankAccount account1 = new BankAccount("123456", "Alice", 1000.0);
